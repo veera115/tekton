@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: myapp
+Version: 0.0.1
+Summary: Semaphore CI/CD
+Author-email: Saurav <saurav.padhy@abbyy.com>
+License-File: LICENSE.md
+Provides-Extra: dev
+Requires-Dist: pytest>=6.2.2; extra == "dev"
+Requires-Dist: black; extra == "dev"

@@ -1,0 +1,7 @@
+flask
+pandas
+folium
+pytest
+gunicorn
+build
+setuptools

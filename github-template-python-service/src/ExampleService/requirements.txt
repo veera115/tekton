@@ -1,0 +1,4 @@
+pytest
+setuptools
+build
+pyinstaller
